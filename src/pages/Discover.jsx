@@ -1,3 +1,9 @@
-const Discover = () => <div>Discover</div>;
+const Discover = () => {
+
+ return (
+<div>
+
+
+</div>)};
 
 export default Discover;
